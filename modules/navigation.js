@@ -12,4 +12,4 @@ allLinks.addEventListener('click', (e) => {
     .classList.add('active');
 });
 
-export {allSection, allLinks}
+export { allSection, allLinks };

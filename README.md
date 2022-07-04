@@ -1,66 +1,46 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Awesome-books
 
-# Project Name
-
-> Description the project.
-
+> This is a project that can keep track of a list of books utilizing localStorage.
+> It uses ES6 syntax and modules to link the javaScript files into the index.js file.
+> The index.js file is linked to the index.html file with a type attribute of module.
+> Time and Date were added the code using modules too. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- Javascript
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+***Go to the a repository on [github](https://github.com/anasbassi/Capstone-Project-1.git).**
+**Fork the repository to your own github.**
+**Follow the follwing steps to to clone the repository**
+-Click on repository,
+-Click on code,
+-Copy the https link on the page,
+-Open gibash in a folder on your local device,
+-Run the command git clone "the coppied https link" 
+-Go to the folder and you will find the file locally 
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+**Anas Abubakar Bassi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@anasbassi](https://github.com/anasbassi)
+- Twitter: [@anasabu92568449](https://twitter.com/anasabu92568449)
+- LinkedIn: [Anas Abubakar](https://linkedin.com/in/anas-abubakar-7b352722b)
 
-👤 **Author2**
+## :handshake: Contributing
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a :star:️ if you like this project!
 
 ## Acknowledgments
 
@@ -68,6 +48,6 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
+## :memo: License
 
 This project is [MIT](./MIT.md) licensed.

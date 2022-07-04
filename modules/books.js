@@ -3,7 +3,6 @@ const title = document.querySelector('.title');
 const author = document.querySelector('.author');
 const bookStore = document.querySelector('.books-collection');
 
-
 class Book {
   constructor(title, author) {
     this.title = title;
@@ -74,4 +73,4 @@ btnAdd.addEventListener('click', (e) => {
   author.value = '';
 });
 
-export {Book, btnAdd, miscBook,};
+export { Book, btnAdd, miscBook };
