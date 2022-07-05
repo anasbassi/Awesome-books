@@ -1,0 +1,20 @@
+{
+  "name": "awesome-books",
+  "version": "1.0.0",
+  "description": "> This is a project that can keep track of a list of books utilizing localStorage.\r > It uses ES6 syntax and modules to link the javaScript files into the index.js file.\r > The index.js file is linked to the index.html file with a type attribute of module.\r > Time and Date were added the code using modules too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasbassi/Awesome-books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasbassi/Awesome-books/issues"
+  },
+  "homepage": "https://github.com/anasbassi/Awesome-books#readme"
+}
